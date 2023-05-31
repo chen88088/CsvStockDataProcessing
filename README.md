@@ -5,4 +5,4 @@ deal with stock data (csv), to categorize, to cauculate, and  to sort (project n
 * ![image](CsvData.png)
 
 * Process -- readfile/ select / sortTop50Buy&Sell
-* ![image](CsvProcess.png)
+* ![image](CsvProgram.png)
